@@ -1,0 +1,55 @@
+/* Reseta as margens e 
+preenchimento padrão do navegador */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner{
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+}
+.menu{
+    background-color: lightseagreen;
+    padding: 10px 0;
+}
+.menu ul{
+    list-style: none;
+    text-align: left;
+}
+.menu ul li{
+    display: inline;
+    margin: 0 15px;
+}
+.menu ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 18;
+}
+.conteudo{
+    padding: 20px;
+    text-align: left;
+}
+.rodape{
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+.menu ul li a:link{
+    color: red;
+}
+.menu ul li a:visited{
+    color: yellow;
+}
+.menu ul li a:hover{
+    color: hotpink;
+}
+.menu ul li a:active{
+    color: green;
+}
