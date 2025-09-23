@@ -3,24 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-.body{
-    display: flex; /* Transforma o body em um contêiner flexbox */
-    justify-content: center; /* Centraliza o conteúdo horizontalmente */
-    align-items: center; /* Centraliza o conteúdo verticalmente */
-    min-height: 100vh; /* Garante que o corpo da página ocupe a altura total da tela */
-    margin: 0; /* Remove a margem padrão do body */
-    background-color: #f0f0f0; /* Opcional: para visualizar o resultado */
-    font-family: sans-serif; /* Para um visual mais moderno */
-}
-.h1{
-    text-align: center;
-}
 .form{
-    width: 100%;
-    max-width: 450px; /* Define uma largura máxima para o formulário */
-    padding: 30px;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave para destacar */
-    background-color: #fff;
+    
 }
