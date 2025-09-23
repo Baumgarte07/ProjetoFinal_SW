@@ -16,7 +16,8 @@
                 <li><a href="index.php">Início</a></li>
                 <li><a href="#">Masculinos</a></li>
                 <li><a href="#">Femininos</a></li>
-                <li><a href="cadastro.php">Brinquedos</a></li>
+                <li><a href="#">Brinquedos</a></li>
+                <li><a href="cadastro.php">Cadastrar-se</a></li>
             </ul>
         </nav>
     </nav>
